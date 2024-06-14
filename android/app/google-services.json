@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154506813541",
+    "project_id": "womenhealth-bd1c0",
+    "storage_bucket": "womenhealth-bd1c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154506813541:android:3e6e6f5e06ac16b30ee68c",
+        "android_client_info": {
+          "package_name": "com.example.pt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWhrv98Ggs_CJXr7BPdULUSOT4CbPSBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
